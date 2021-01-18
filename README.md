@@ -1,1 +1,1 @@
-# Data pre-processing practice on Fandigo starwars dataset
+# Python coding practices from Dataquest and Codewar
